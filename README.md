@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Nimboss here! I do Python, HTML, a fair amount of CSS and basic JavaScript. Currently working on a personal website, for now I have [this](https://linktr.ee/Nimboss).
+#### Nimboss here! I do Python, HTML, a fair amount of CSS and basic JavaScript. My personal website is @ [nimboss.netlify.app](https://nimboss.netlify.app).
 
 #### I specialize in Web dev, making Discord Bots and experimenting with APIs.
 
