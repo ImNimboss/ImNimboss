@@ -8,8 +8,4 @@ My GitHub Stats -
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImNimboss&theme=github_dark&countprivate=true)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImNimboss&theme=github_dark)
-
 Reach me @ Nimboss#9651 on Discord :>
-
-![Profile views](https://komarev.com/ghpvc/?username=ImNImboss)
