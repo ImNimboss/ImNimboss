@@ -1,11 +1,4 @@
 ### Hi there 👋
 
-#### Nimboss here! I do Python, HTML, a fair amount of CSS and basic JavaScript. My personal website is @ [nimboss.me](https://nimboss.me).
-
-#### I specialize in Web dev, making Discord Bots and experimenting with APIs.
-
-My GitHub Stats -
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImNimboss&theme=github_dark&countprivate=true)
-
-Reach me @ Nimboss#9651 on Discord :>
+Nimit here! I'm fairly proficient in Python and know basic C, have worked with web APIs and Discord bots before, and am now mostly experimenting with physical systems like electronics or neurotech.
+[My website](https://nimboi.netlify.app)
